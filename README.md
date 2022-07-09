@@ -1,6 +1,13 @@
-### Hi there 👋
+## Hi there, I'm Martin 👋
+
+### About me
+- I'm studying Computer Science Engineering.
+- I'm interested in Web developmente, Data Science, A.I. and Cloud Computing.
 
 <!--
+~~~
+
+~~~
 **MartinOtamendiT/MartinOtamendiT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
