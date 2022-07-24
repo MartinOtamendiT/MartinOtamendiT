@@ -2,7 +2,8 @@
 
 I'm a Computer Science Engineering Student from Mexico. I'm really interested in Web Development, Data Science, A.I. and Cloud Computing, so I'm learning about them.
 
-![Snake animation](https://github.com/MartinOtamendiT/MartinOtamendiT/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/martinotamendit/martinotamendit/blob/output/github-contribution-grid-snake.svg)
+
 ---
 ### :comet: About me
 ```javascript
