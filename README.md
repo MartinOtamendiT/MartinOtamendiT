@@ -10,7 +10,7 @@ I'm a Computer Science Engineering Student from Mexico. I'm really interested in
 const Martin = {
   Pronouns: 'He' | 'Him',
   Code: ['C/C++','Java','Javascript','Python','HTML','CSS'],
-  Technologies: ['SQL','Mongo','Azure','Heroku']
+  Technologies: ['SQL','Docker','Azure']
 };
 ```
 <div id="header" align="center">
