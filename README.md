@@ -1,8 +1,8 @@
 ## Hi there, I'm Martin <img src="https://media.giphy.com/media/3OXc5iM4VybLzKAoBR/giphy.gif" width="80"/>
 
-I'm a Computer Science Engineering Student from Mexico. I'm really interested in Web Development, Data Science, A.I. and Cloud Computing, so I'm learning about them.
+I'm a Computer Science Engineer from Mexico. I'm focused on Artificial Intelligence/Machine Learning and Data Science. I'm also interested in Web Development and Cloud Computing.
 
-![Snake animation](https://github.com/martinotamendit/martinotamendit/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/martinotamendit/martinotamendit/blob/output/ocean.gif)
 
 ---
 ### :comet: About me
@@ -10,7 +10,7 @@ I'm a Computer Science Engineering Student from Mexico. I'm really interested in
 const Martin = {
   Pronouns: 'He' | 'Him',
   Code: ['C/C++','Java','Javascript','Python','HTML','CSS'],
-  Technologies: ['SQL','Docker','Azure']
+  Technologies: ['SQL','Docker','Azure', 'GCP']
 };
 ```
 <div id="header" align="center">
