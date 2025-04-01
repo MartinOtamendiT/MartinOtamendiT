@@ -1,4 +1,7 @@
-## Hi there, I'm Martin <img src="https://media.giphy.com/media/3OXc5iM4VybLzKAoBR/giphy.gif" width="80"/>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Russo+One&size=35&duration=4000&pause=1000&color=007C7F&center=true&vCenter=true&width=500&height=70&lines=Hi+there!;I'm+Martin+Otamendi" alt="Typing SVG" />
+  <img src="https://media.giphy.com/media/3OXc5iM4VybLzKAoBR/giphy.gif" width="80"/>
+</h1>
 
 I'm a Computer Science Engineer from Mexico. I'm focused on Artificial Intelligence/Machine Learning and Data Science. I'm also interested in Web Development and Cloud Computing.
 
