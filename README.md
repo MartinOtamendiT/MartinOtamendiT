@@ -1,6 +1,7 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Russo+One&size=35&duration=4000&pause=1000&color=007C7F&center=true&vCenter=true&width=500&height=70&lines=Hi+there!;I'm+Martin+Otamendi" alt="Typing SVG" />
   <img src="https://media.giphy.com/media/3OXc5iM4VybLzKAoBR/giphy.gif" width="80"/>
+
 </h1>
 
 I'm a Computer Science Engineer from Mexico. I'm focused on Artificial Intelligence/Machine Learning and Data Science. I'm also interested in Web Development and Cloud Computing.
@@ -8,12 +9,16 @@ I'm a Computer Science Engineer from Mexico. I'm focused on Artificial Intellige
 ![Snake animation](https://github.com/martinotamendit/martinotamendit/blob/output/ocean.gif)
 
 ---
-### :comet: About me
+<h2 align="center">:comet: About me</h2>
+
 ```javascript
 const Martin = {
   Pronouns: 'He' | 'Him',
-  Code: ['C/C++','Java','Javascript','Python','HTML','CSS'],
-  Technologies: ['SQL','Docker','Azure', 'GCP']
+  Country: 'Mexico',
+  Occupation: 'Open to job opportunities',
+  Hobbies: ['Archery', 'Build with Lego', 'Write', 'Listen to music', 'Electronics', 'Read'],
+  Likes: ['Robotics', 'Artificial Intelligence', 'Explore nature', 'Swimming'],
+  LifePurpose: 'Explore and learn as much as possible about the world, universe, and life.'
 };
 ```
 <div id="header" align="center">
@@ -21,17 +26,20 @@ const Martin = {
 </div>
 
 ---
+<h2 align="center">Languages and Tools:</h2>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=py,js,c,cpp,java,r,html,css,arduino,matlab" />
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,azure,gcp,heroku,firebase,vercel,docker,git,github" />
+    <img src="https://skillicons.dev/icons?i=sklearn,pytorch,tensorflow,opencv,regex,fastapi,flask,nodejs,npm,bootstrap" />  
+</div>
+
+---
 ### :rocket: My Stats
 <div id="stats" align="center">
-  <a href=https://github.com/anuraghazra/github-readme-stats>
-    <img src="https://github-readme-stats.vercel.app/api?username=martinotamendit&count_private=true&show_icons=true&theme=algolia&bg_color=0A4756">
-  </a>
-  <a href=https://git.io/streak-stats>
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=MartinOtamendiT&theme=blux&background=0A4756" alt="GitHub Streak">
-  </a>
-  <a href=https://github.com/anuraghazra/github-readme-stats>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinotamendit&layout=compact&theme=react&bg_color=0A4756" alt="GitHub Streak">
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=martinotamendit&count_private=true&show_icons=true&theme=algolia&bg_color=0A4756">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinotamendit&layout=compact&theme=react&bg_color=0A4756" alt="GitHub Streak">
+  <br>
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=MartinOtamendiT&theme=blux&background=0A4756" alt="GitHub Streak">  
 </div>
 
 <!--
