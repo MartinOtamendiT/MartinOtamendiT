@@ -16,9 +16,9 @@ const Martin = {
   Pronouns: 'He' | 'Him',
   Country: 'Mexico',
   Occupation: 'Open to job opportunities',
-  Hobbies: ['Archery', 'Build with Lego', 'Write', 'Listen to music', 'Electronics', 'Read'],
-  Likes: ['Robotics', 'Artificial Intelligence', 'Explore nature', 'Swimming'],
-  LifePurpose: 'Explore and learn as much as possible about the world, universe, and life.'
+  Hobbies: ['Archery', 'Build with Lego', 'Writing', 'Listening to music', 'Electronics', 'Reading', 'Learning'],
+  Likes: ['Robotics', 'Artificial Intelligence', 'Exploring nature', 'Swimming', 'Science fiction', 'Fantasy', 'Puzzles'],
+  LifePurpose: 'To explore and learn as much as possible about the world, universe, and life.'
 };
 ```
 <div id="header" align="center">
@@ -36,10 +36,10 @@ const Martin = {
 ---
 ### :rocket: My Stats
 <div id="stats" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=martinotamendit&count_private=true&show_icons=true&theme=algolia&bg_color=0A4756">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinotamendit&layout=compact&theme=react&bg_color=0A4756" alt="GitHub Streak">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=martinotamendit&count_private=true&show_icons=true&theme=algolia&bg_color=0A4756">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinotamendit&layout=compact&theme=react&bg_color=0A4756" alt="GitHub Streak">
   <br>
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=MartinOtamendiT&theme=blux&background=0A4756" alt="GitHub Streak">  
+  <img height="160em" src="http://github-readme-streak-stats.herokuapp.com?user=MartinOtamendiT&theme=blux&background=0A4756" alt="GitHub Streak">
 </div>
 
 <!--
